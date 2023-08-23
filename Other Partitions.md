@@ -59,59 +59,6 @@ major minor  #blocks  name
  254        0    3145728 zram0
  259        0         64 pmem0
  179        0   30535680 mmcblk0
- 179        1      10240 mmcblk0p1
- 179        2       1024 mmcblk0p2
- 179        3       2048 mmcblk0p3
- 179        4       2048 mmcblk0p4
- 179        5       1024 mmcblk0p5
- 179        6       2048 mmcblk0p6
- 179        7       2048 mmcblk0p7
- 259        1       1024 mmcblk0p8
- 259        2      10240 mmcblk0p9
- 259        3      16384 mmcblk0p10
- 259        4      16384 mmcblk0p11
- 259        5       8192 mmcblk0p12
- 259        6       4096 mmcblk0p13
- 259        7       1024 mmcblk0p14
- 259        8       3072 mmcblk0p15
- 259        9       6144 mmcblk0p16
- 259       10       6144 mmcblk0p17
- 259       11       1024 mmcblk0p18
- 259       12       1024 mmcblk0p19
- 259       13       2048 mmcblk0p20
- 259       14       1024 mmcblk0p21
- 259       15       1024 mmcblk0p22
- 259       16       4096 mmcblk0p23
- 259       17       5120 mmcblk0p24
- 259       18       1024 mmcblk0p25
- 259       19       1024 mmcblk0p26
- 259       20       1024 mmcblk0p27
- 259       21       1024 mmcblk0p28
- 259       22       1024 mmcblk0p29
- 259       23      16384 mmcblk0p30
- 259       24       6144 mmcblk0p31
- 259       25       4096 mmcblk0p32
- 259       26      17408 mmcblk0p33
- 259       27      10240 mmcblk0p34
- 259       28       1024 mmcblk0p35
- 259       29      10240 mmcblk0p36
- 259       30      65536 mmcblk0p37
- 259       31      65536 mmcblk0p38
- 259       32       8192 mmcblk0p39
- 259       33      76800 mmcblk0p40
- 259       34      24576 mmcblk0p41
- 259       35      16384 mmcblk0p42
- 259       36       1024 mmcblk0p43
- 259       37       1024 mmcblk0p44
- 259       38       6144 mmcblk0p45
- 259       39    6582272 mmcblk0p46
- 259       40     425984 mmcblk0p47
- 259       41      20480 mmcblk0p48
- 259       42     204800 mmcblk0p49
- 259       43      24576 mmcblk0p50
- 259       44      10240 mmcblk0p51
- 259       45       6144 mmcblk0p52
- 259       46   22815724 mmcblk0p53
  179       16       4096 mmcblk0boot1
  179        8       4096 mmcblk0boot0
  179       24   30228480 mmcblk1
