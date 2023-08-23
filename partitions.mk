@@ -1,4 +1,4 @@
- <Partition>    <Size>  <fs>  <Name>          <blocks>
+ <Partition>k    <Size>  <fs>  <Name>          <blocks>
  mmc/blk/0p1    10.5MB  ext4   prodnv         10240
  mmc/blk/0p2    1049kB         miscdata       1024
  mmc/blk/0p3    2097kB         l_fixnv1       2048
