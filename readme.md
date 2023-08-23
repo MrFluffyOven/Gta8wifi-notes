@@ -24,7 +24,7 @@
  259       43      24576 mmcblk0p50
  259       44      10240 mmcblk0p51
  259       45       6144 mmcblk0p52
- 259       46   22815724 mmcblk0p53
+ 259       46   22815724 mmcblk0p53 /Userdata
  179       16       4096 mmcblk0boot1
  179        8       4096 mmcblk0boot0
  179       24   30228480 mmcblk1
