@@ -52,11 +52,11 @@ mmc/blk/0p50    25.2MB  ext4   omr            24576
 mmc/blk/0p51    10.5MB         sysdumpdb      10240
 mmc/blk/0p52    6291kB         l_agdsp        6144
 mmc/blk/0p53    23.4GB         userdata       22815724
-dev/block/dm-0          ext4   system         3755296
+dev/block/dm-0          ext4                  3755296
 dev/block/dm-1          ext4   system_ext     325616
 dev/block/dm-2                                782364
 dev/block/dm-3                 odm            1224232
-dev/block/dm-4                                3695960 
+dev/block/dm-4                 system         3695960 
 dev/block/dm-5                 vendor         769932 
 dev/block/dm-6                 product        1204832
 dev/block/dm-7                 prism          419184
